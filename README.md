@@ -36,26 +36,28 @@
 
 ## 🎯 Quick Highlights
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```mermaid
-mindmap
-  root((Mayank))
-    AI Engineer
-      Wake Word Detection
-      Voice Assistants
-      Deep Learning
-    Systems Architect
-      Multi-threading
-      Cloud Deployment
-      Scalable APIs
-    Innovator
-      Published Research
-      Hackathon Winner
-      5+ Enterprise Clients
-```
+### 🤖 AI & ML Expertise
+- 🎤 **Wake Word Detection** - RepCNN with 400k samples
+- 🗣️ **Voice AI** - 500ms latency, cross-platform
+- 🧠 **Multi-Agent Systems** - LLM orchestration
+- 📊 **Deep Learning** - CNNs, Transfer Learning
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Impact & Recognition
+- 🏆 **5+ Enterprise Clients** using my systems
+- 📝 **IEEE Published** - Stock Market Prediction
+- 🥇 **Hackathon Finalist** - IIIT Gwalior, IIT KGP
+- ⚡ **2x Performance Gain** - C++ optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
